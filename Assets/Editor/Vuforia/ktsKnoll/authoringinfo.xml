@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="17.1179 -1.2007 2.8078 24.4234 3.9013 14.8849" area="26" targetId="dde61d34d84d4e1c880702c9c1c4148e" name="ktsKnoll" pathAuthoring="dde61d34d84d4e1c880702c9c1c4148e_authoring.glb" pathOcclusion="dde61d34d84d4e1c880702c9c1c4148e_occlusion.3dt" pathNavMesh="dde61d34d84d4e1c880702c9c1c4148e_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
